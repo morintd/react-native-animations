@@ -6,3 +6,4 @@ See:
 
 - [A tic-tac-toe game](https://github.com/morintd/react-native-animations/tree/main/tictactoern)
 - [A fake weather application](https://github.com/morintd/react-native-animations/tree/main/weather)
+- [An onboarding component](https://github.com/morintd/react-native-animations/tree/main/onboarding)
